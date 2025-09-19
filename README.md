@@ -70,15 +70,24 @@ Precision, Recall, F1-score
 
 
 📊 Visual Results
-Training Performance
+Accuracy 
+
+
+<img width="567" height="432" alt="image" src="https://github.com/user-attachments/assets/48578838-6e1d-4560-8a38-d7c64f4e2bce" />
+
 
 Loss Curve
 
+<img width="846" height="547" alt="image" src="https://github.com/user-attachments/assets/3045d28c-7b14-48b4-8c93-df5f64968796" />
+
+
 Sample Predictions
+
+<img width="1900" height="825" alt="image" src="https://github.com/user-attachments/assets/c7211a67-2388-464f-9aa8-3f15b95cbad8" />
 
 🚀 How to Run
 1️⃣ Clone the repo
-git clone https://github.com/your-username/intel-image-classification.git
+git clone https://github.com/srimidhuna/intel_image_classification
 cd intel-image-classification
 
 2️⃣ Install dependencies
@@ -95,10 +104,12 @@ model = load_model("my_model.h5")
 
 Add Transfer Learning (ResNet, VGG16, EfficientNet).
 
-Deploy the model with Streamlit or Flask.
+Deploy the model with Gradio.
 
 Improve accuracy with hyperparameter tuning.
 
 ✨ Example Predictions
 
 🌟 This project demonstrates how deep learning can classify natural scenes into multiple categories, making it useful for geospatial analytics, tourism apps, and environmental monitoring.
+
+APP LINK: https://huggingface.co/spaces/srimidhuna/intel_image_classification
