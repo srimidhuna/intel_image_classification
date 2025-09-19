@@ -1,0 +1,41 @@
+# === PYTHON BYTECODE ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === JUPYTER NOTEBOOK CHECKPOINTS ===
+.ipynb_checkpoints/
+
+# === VIRTUAL ENVIRONMENTS ===
+venv/
+env/
+.venv/
+D:/AI_WORKFORCE/CNN/venv/
+
+# === MACHINE LEARNING FILES ===
+*.h5
+*.pkl
+*.npz
+*.npy
+*.ckpt
+
+# === DATASETS ===
+dataset/
+data/
+*.csv
+*.zip
+*.tar.gz
+
+# === LOGS & TEMP FILES ===
+*.log
+logs/
+tmp/
+
+# === OS JUNK FILES ===
+.DS_Store
+Thumbs.db
+
+# === IDE / EDITOR ===
+.vscode/
+.idea/
